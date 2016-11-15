@@ -1,5 +1,9 @@
 # STL
-Fichiers STL des figurines Léo et Léa prêts à être imprimés en 3D
+Fichiers STL des figurines Léo et Léa prêts à être imprimés en 3D.
+
+Ces figurines ont été présentées au <a href="https://devfest.gdgnantes.com/" target="_blank">DevFest 2016</a> et sont 10 fois plus grandes que leur taille d'origine !
+
+Certain de ces fichiers ont été adaptés de la version de Skimbal <a href="http://www.thingiverse.com/thing:170076" target="_blank">Blank Minifig, Jumbo Snap-Together Version</a> (licensed under the <a href="https://creativecommons.org/licenses/by-nc/3.0/" target="_blank">Creative Commons - Attribution - Non-Commercial</a> license)
 
 #Commun
 Les fichiers STL destinés aux 2 figurines :
