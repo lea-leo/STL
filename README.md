@@ -1,7 +1,7 @@
 # STL
 Fichiers STL des figurines Léo et Léa prêts à être imprimés en 3D.
 
-[DevFest Nantes 2016](https://devfest.gdgnantes.com/ target="_blank")
+[DevFest Nantes 2016]("https://devfest.gdgnantes.com/" target="_blank")
 
 Ces figurines ont été présentées au <a href="https://devfest.gdgnantes.com/" target="_blank">DevFest Nantes 2016</a> et sont 10 fois plus grandes que leur taille d'origine !
 
